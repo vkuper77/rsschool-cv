@@ -50,3 +50,7 @@ function meshRendering (data = []){
   return result.filter((it) => it.length)
 }
 ```
+### Education
+#### __Company name:__ [Computer Academy STEP](https://gomel.itstep.by/?utm_source=google_poisk&utm_medium=cpc&utm_campaign=ITSTEP_poisk&utm_content={position}&utm_term=%D1%88%D0%B0%D0%B3%20%D0%B3%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C&gclid=Cj0KCQiAnNacBhDvARIsABnDa6-3d4PglEeTNQgFb3BjluFXojJTRB-jkrlLFHHCCwRhwPU2tOduRiQaAoTAEALw_wcB)
+#### __Position:__ Front-End Development
+#### __Сourse time:__ _27.02.2020 - 21.12.2020_
