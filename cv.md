@@ -19,12 +19,12 @@ But at the same time, I believe that one cannot stop at what has been achieved a
 #### __My position:__ React Native Developer
 #### __Work experience:__ _March 2021 - present_
 *********
-<!-- ### Skills
-* CSS, SCSS, SASS
-*
-*
-*
-*
-*
-*
-* -->
+### Skills
+- **CSS, SCSS, SASS**
+- **Java Script**
+- **Type Script**
+- **React | React Native | Expo | React Navigation | Reanimated 2 | React Native Gesture Handler**
+- **Redux**
+- **Git**
+- **Firebase | Exponea | AppMetrica**
+- **Figma**
