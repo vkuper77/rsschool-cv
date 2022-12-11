@@ -9,9 +9,22 @@
 * [LinkedIn](https://www.linkedin.com/in/vitali-kupratsevich-9103b01b8/)
 * [Instagram](https://www.instagram.com/vitali_kupratsevich/)
 *********
-<!-- ### About Me -->
+### About Me
+My name is Vitaly, I am 27 years old.
+I have been working as a mobile developer for 2 years.
+But at the same time, I believe that one cannot stop at what has been achieved and one must always develop. That's why I'm here.
+*********
 ### Work experience
 #### __Company name:__ [MSA-IT](https://msa-it.ru/)
 #### __My position:__ React Native Developer
 #### __Work experience:__ _March 2021 - present_
 *********
+<!-- ### Skills
+* CSS, SCSS, SASS
+*
+*
+*
+*
+*
+*
+* -->
