@@ -28,3 +28,25 @@ But at the same time, I believe that one cannot stop at what has been achieved a
 - **Git**
 - **Firebase | Exponea | AppMetrica**
 - **Figma**
+*********
+### Code Examples
+```
+function meshRendering (data = []){
+  let result = []
+  let childArr = []
+
+  for (let i = 0; i <= data.length; i++) {
+    if (childArr.length === 3) {
+      result.push(childArr)
+      childArr = []
+    } else if (i === data.length) {
+      result.push(childArr)
+      childArr = []
+      break
+    }
+    childArr.push(data[i])
+  }
+
+  return result.filter((it) => it.length)
+}
+```
