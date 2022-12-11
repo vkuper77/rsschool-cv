@@ -1,10 +1,9 @@
 # Vitali Kupratsevich
 ### I'm a Frontend developer
 ### Contact information
-* Элемент списка 1 
-* Элемент списка 2 
-    + Элемент второго уровня списка 1 
-    + Элемент второго уровня списка 2 
-        - Элемент третьего уровня списка 1 
-        - Элемент третьего уровня списка 2 
-        - Элемент третьего уровня списка 3
+* +375 (33) 325-96-92
+* vkuper7@gmail.com 
+* [https://t.me/v_kuper](Telegram)
+* [https://github.com/vkuper77](GitHab)
+* [https://www.linkedin.com/in/vitali-kupratsevich-9103b01b8/](LinkedIn)
+* [https://www.instagram.com/vitali_kupratsevich/](Instagram)
