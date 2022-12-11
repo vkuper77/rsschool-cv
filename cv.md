@@ -15,9 +15,9 @@ I have been working as a mobile developer for 2 years.
 But at the same time, I believe that one cannot stop at what has been achieved and one must always develop. That's why I'm here.
 ********* 
 ### Work experience
-#### __Company name:__ [MSA-IT](https://msa-it.ru/)
-#### __My position:__ React Native Developer
-#### __Work experience:__ _March 2021 - present_
+#### __Company name: [MSA-IT](https://msa-it.ru/)
+#### __My position: React Native Developer
+#### __Work experience: _March 2021 - present
 ********* 
 ### Skills
 - **CSS, SCSS, SASS**
