@@ -10,4 +10,8 @@
 * [Instagram](https://www.instagram.com/vitali_kupratsevich/)
 *********
 <!-- ### About Me -->
-<!-- ### Work experience -->
+### Work experience
+#### __Company name:__ [MSA-IT](https://msa-it.ru/)
+#### __My position:__ React Native Developer
+#### __Work experience:__ _March 2021 - present_
+*********
