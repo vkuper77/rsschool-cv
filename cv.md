@@ -11,7 +11,7 @@
 ********* 
 ### About Me
 My name is Vitaly, I am 27 years old.
-I have been working as a mobile developer for 2 years.
+I have been working as a mobile developer for ~~~~2 years.
 But at the same time, I believe that one cannot stop at what has been achieved and one must always develop. That's why I'm here.
 ********* 
 ### Work experience

@@ -1,4 +1,193 @@
-.container {
-    flex: 1;
-    background: lightgray;
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
+
+body {
+    flex: 1;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    min-width: 858px;
+}
+
+.container_right {
+    min-width: 563px;
+    display: flex;
+    flex-direction: column;
+}
+
+.wrapper_welcome {
+    padding: 114px 0 110px 58px;
+}
+
+.name {
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 46px;
+    line-height: 57px;
+    color: #363636;
+}
+
+.profession_text {
+    font-family: 'Inter', sans-serif;
+    font-weight: 300;
+    margin-top: 22px;
+    color: #363636;
+}
+
+.section_wrapper {
+    padding-bottom: 50px;
+}
+
+.section_container {
+    display: flex;
+    flex-direction: row;
+    background-color: #EBEBEB;
+}
+
+.section_dot {
+    background-color: #F2C200;
+    width: 15px;
+}
+
+
+.section_title {
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    color: #363636;
+    margin-left: 58px;
+    font-size: 21px;
+    line-height: 26px;
+}
+
+.section_text {
+    max-width: 450px;
+    margin-top: 40px;
+    margin-left: 40px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #535353;
+}
+
+.wrapper_experience {
+    display: flex;
+    flex-direction: row;
+    margin-top: 40px;
+    margin-left: 40px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #535353;
+}
+
+
+.wrapper_experience > ul > li {
+    margin-bottom: 8px;
+    margin-left: 15px;
+}
+
+.experience_name_company {
+    margin-top: 20px;
+}
+
+.experience_position {
+    margin-left: 50px;
+    font-weight: 600;
+}
+
+.container_contact {
+    background-color: #353945;
+    padding-top: 50px;
+}
+
+.photo {
+    display: flex;
+}
+
+a:link, a:visited {
+    color: white;
+    text-decoration: none
+}
+
+.contacts_list {
+    padding-left: 50px;
+    list-style-type: none;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 19px;
+    color: white;
+}
+
+.contacts_list > li {
+    margin-top: 20px;
+}
+
+
+.container_education {
+    padding-top: 50px;
+    background-color: #2C323E;
+}
+
+.container_left_plate {
+    background-color: #434753;
+}
+
+.container_left_plate > p {
+    color: white;
+}
+
+
+.footer {
+    height: 100px;
+    background-color: #2C323E;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 0px;
+}
+
+
+.rslogo {
+    width: 100px;
+}
+
+.container_education_wrapper_text {
+    padding-top: 30px;
+    padding-left: 50px;
+}
+
+.container_education_text {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 19px;
+    color: white;
+    margin-bottom: 10px;
+}
+
+.wrapper_experience > ul {
+    list-style-type: none;
+}
+
+.link_project:link, .link_project:visited {
+    color: #535353;
+
+}
+
